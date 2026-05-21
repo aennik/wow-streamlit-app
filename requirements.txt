@@ -1,0 +1,12 @@
+notebook
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+dash
+imageio
+fpdf
+lorem
+streamlit
+fpdf2
