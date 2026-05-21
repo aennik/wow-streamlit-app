@@ -47,6 +47,10 @@ Der Fokus liegt dabei nicht auf einer fertigen Produkt-App, sondern auf dem Übe
 
 ---
 
+## Status
+
+Das Projekt ist ein Lern- und Übungsprojekt, welches wir im Rahmen unserer Witerbildung erstellt haben.  
+
 ## Projektstruktur
 
 ```text
@@ -70,8 +74,4 @@ wow-streamlit-app/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
-
-## Status
-
-Das Projekt ist ein Lern- und Übungsprojekt, welches wir im Rahmen unserer Witerbildung erstellt haben.  
+└── .gitignore---
