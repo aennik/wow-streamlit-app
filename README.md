@@ -47,6 +47,31 @@ Der Fokus liegt dabei nicht auf einer fertigen Produkt-App, sondern auf dem Übe
 
 ---
 
+## Projektstruktur
+
+```text
+wow-streamlit-app/
+│
+├── app.py
+├── data_loader.py
+├── design.py
+├── ui.py
+├── utils4.py
+│
+├── pages/
+│   ├── 1_Startseite.py
+│   ├── 2_Grundplots.py
+│   ├── 3_Story_vs_Klasse.py
+│   ├── 4_Alltagsritual.py
+│   ├── 5_Solo_vs_Gilde.py
+│   └── 6_Failplots.py
+│
+├── assets/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ## Status
 
 Das Projekt ist ein Lern- und Übungsprojekt, welches wir im Rahmen unserer Witerbildung erstellt haben.  
